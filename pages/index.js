@@ -3,7 +3,7 @@ import db from '../db.json';
 import Widget from '../src/components/Widget'
 import QuizBackground from '../src/components/QuizBackground'
 import Footer from '../src/components/Footer'
-import GithubCorner from '../src/components/GithubCorner'
+import GitHubCorner from '../src/components/GitHubCorner'
 
 const Title = styled.h1`
   font-size: 50px;
